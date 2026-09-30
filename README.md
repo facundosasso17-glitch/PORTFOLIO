@@ -1,4 +1,8 @@
 [PORTFOLIO_README_unificado.md](https://github.com/user-attachments/files/32870059/PORTFOLIO_README_unificado.md)
+
+#<img width="1280" height="640" alt="repository-open-graph-template (1)" src="https://github.com/user-attachments/assets/d1994a25-bf22-4db0-815b-4d7b5d79a190" />
+
+
 # Facundo Gastón Sasso
 
 ### Data & Research Analyst · Social & Urban Research
