@@ -1,7 +1,6 @@
 [PORTFOLIO_README_unificado.md](https://github.com/user-attachments/files/32870059/PORTFOLIO_README_unificado.md)
 
-#<img width="1280" height="640" alt="repository-open-graph-template (1)" src="https://github.com/user-attachments/assets/d1994a25-bf22-4db0-815b-4d7b5d79a190" />
-
+#<img width="1672" height="941" alt="ChatGPT Image 30 sept 2026, 15_37_41" src="https://github.com/user-attachments/assets/60f6a608-4588-4040-821d-95614a670329" />
 
 # Facundo Gastón Sasso
 
